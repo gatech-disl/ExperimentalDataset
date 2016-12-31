@@ -1,0 +1,269 @@
+
+----------- TRACE PARAMETERS ---------
+>Number of Peers:        103
+>Number of Files:        20
+>Number of Transactions: 1500
+>Max. User Connections:  7
+>Bandwidth Period:       1
+>Warm-up Transactions:   750
+>Zipf Constant:          0.400000
+>Pre-Trusted Users:      3
+>Good Behaving Users:    63
+>Purely Malicious Users: 25
+>Feedback Skewing Users: 0
+>Maligned Providers:     0
+>Disguised Malignants:   15
+>Sybil Attackers:        0
+>Smart Trans Gen?:       true
+>Generator Rand Seed:    1474142842799
+>Simulator Rand Seed:    1475724708760
+
+
+>Simulator F_PERC:    0.400000
+
+---------- SIMULATOR SPECIFIC --------
+>Simulator used:         M2MTrust
+>Malicious strategy:     SPY
+
+-------- TRANSACTION OVERVIEW --------
+>Transacts Attempted:    1500
+>Transacts Completed:    1436
+>Transacts Incomplete:   64
+-------- INCOMPLETE TRANS SUM --------
+>Transacts Incomplete:   64
+>Reception Declined:     0
+>No Eligible Senders:    64
+
+--------- COMPLETE TRANS SUM ---------
+>Transacts Completed:    1436
+>valid Transactions:     1099
+>Invalid Transactions:   148
+
+--------- FEEDBACK OVERVIEW ----------
+>Feedbacks Committed:    1436
+>Truthful Feedbacks:     1247
+>Dishonest Feedbacks:    288
+>Sybil-User Feedbacks:   0
+
+--------- EVALUATION METRIC ----------
+>Good User Transacts:    1137
+>Good User Successes:    1099
+>Good User Failures:     38
+
+--------- FILES PROVIDED BY MALICIOUS PEERS  ----------
+>Authentic Files by Malicious peers:     15
+>Authentic Files by Malicious peers with Good receiver:     12
+
+>Fraction of inauthentic downloads: 0.161709
+
+
+>Number of uploading files as provider: 0.uploadnum= 16.0
+1.uploadnum= 3.0
+2.uploadnum= 2.0
+3.uploadnum= 2.0
+4.uploadnum= 3.0
+5.uploadnum= 3.0
+6.uploadnum= 0.0
+7.uploadnum= 5.0
+8.uploadnum= 4.0
+9.uploadnum= 0.0
+10.uploadnum= 1.0
+11.uploadnum= 2.0
+12.uploadnum= 1.0
+13.uploadnum= 4.0
+14.uploadnum= 1.0
+15.uploadnum= 4.0
+16.uploadnum= 3.0
+17.uploadnum= 2.0
+18.uploadnum= 1.0
+19.uploadnum= 1.0
+20.uploadnum= 5.0
+21.uploadnum= 2.0
+22.uploadnum= 2.0
+23.uploadnum= 1.0
+24.uploadnum= 0.0
+25.uploadnum= 2.0
+26.uploadnum= 1.0
+27.uploadnum= 2.0
+28.uploadnum= 1.0
+29.uploadnum= 0.0
+30.uploadnum= 0.0
+31.uploadnum= 0.0
+32.uploadnum= 1.0
+33.uploadnum= 2.0
+34.uploadnum= 4.0
+35.uploadnum= 0.0
+36.uploadnum= 0.0
+37.uploadnum= 0.0
+38.uploadnum= 1.0
+39.uploadnum= 1.0
+40.uploadnum= 14.0
+41.uploadnum= 0.0
+42.uploadnum= 0.0
+43.uploadnum= 47.0
+44.uploadnum= 81.0
+45.uploadnum= 58.0
+46.uploadnum= 0.0
+47.uploadnum= 0.0
+48.uploadnum= 12.0
+49.uploadnum= 6.0
+50.uploadnum= 82.0
+51.uploadnum= 46.0
+52.uploadnum= 105.0
+53.uploadnum= 78.0
+54.uploadnum= 20.0
+55.uploadnum= 64.0
+56.uploadnum= 2.0
+57.uploadnum= 12.0
+58.uploadnum= 44.0
+59.uploadnum= 127.0
+60.uploadnum= 71.0
+61.uploadnum= 0.0
+62.uploadnum= 1.0
+63.uploadnum= 0.0
+64.uploadnum= 65.0
+65.uploadnum= 0.0
+66.uploadnum= 0.0
+67.uploadnum= 48.0
+68.uploadnum= 40.0
+69.uploadnum= 15.0
+70.uploadnum= 0.0
+71.uploadnum= 8.0
+72.uploadnum= 33.0
+73.uploadnum= 0.0
+74.uploadnum= 0.0
+75.uploadnum= 0.0
+76.uploadnum= 0.0
+77.uploadnum= 0.0
+78.uploadnum= 0.0
+79.uploadnum= 0.0
+80.uploadnum= 61.0
+81.uploadnum= 5.0
+82.uploadnum= 22.0
+83.uploadnum= 0.0
+84.uploadnum= 0.0
+85.uploadnum= 0.0
+86.uploadnum= 0.0
+87.uploadnum= 0.0
+88.uploadnum= 0.0
+89.uploadnum= 6.0
+90.uploadnum= 0.0
+91.uploadnum= 0.0
+92.uploadnum= 0.0
+93.uploadnum= 14.0
+94.uploadnum= 7.0
+95.uploadnum= 0.0
+96.uploadnum= 0.0
+97.uploadnum= 0.0
+98.uploadnum= 0.0
+99.uploadnum= 1.0
+100.uploadnum= 115.0
+101.uploadnum= 0.0
+102.uploadnum= 32.0
+0.uploadpercentage= 0.011228070175438596
+1.uploadpercentage= 0.002105263157894737
+2.uploadpercentage= 0.0014035087719298245
+3.uploadpercentage= 0.0014035087719298245
+4.uploadpercentage= 0.002105263157894737
+5.uploadpercentage= 0.002105263157894737
+6.uploadpercentage= 0.0
+7.uploadpercentage= 0.0035087719298245615
+8.uploadpercentage= 0.002807017543859649
+9.uploadpercentage= 0.0
+10.uploadpercentage= 7.017543859649122E-4
+11.uploadpercentage= 0.0014035087719298245
+12.uploadpercentage= 7.017543859649122E-4
+13.uploadpercentage= 0.002807017543859649
+14.uploadpercentage= 7.017543859649122E-4
+15.uploadpercentage= 0.002807017543859649
+16.uploadpercentage= 0.002105263157894737
+17.uploadpercentage= 0.0014035087719298245
+18.uploadpercentage= 7.017543859649122E-4
+19.uploadpercentage= 7.017543859649122E-4
+20.uploadpercentage= 0.0035087719298245615
+21.uploadpercentage= 0.0014035087719298245
+22.uploadpercentage= 0.0014035087719298245
+23.uploadpercentage= 7.017543859649122E-4
+24.uploadpercentage= 0.0
+25.uploadpercentage= 0.0014035087719298245
+26.uploadpercentage= 7.017543859649122E-4
+27.uploadpercentage= 0.0014035087719298245
+28.uploadpercentage= 7.017543859649122E-4
+29.uploadpercentage= 0.0
+30.uploadpercentage= 0.0
+31.uploadpercentage= 0.0
+32.uploadpercentage= 7.017543859649122E-4
+33.uploadpercentage= 0.0014035087719298245
+34.uploadpercentage= 0.002807017543859649
+35.uploadpercentage= 0.0
+36.uploadpercentage= 0.0
+37.uploadpercentage= 0.0
+38.uploadpercentage= 7.017543859649122E-4
+39.uploadpercentage= 7.017543859649122E-4
+40.uploadpercentage= 0.009824561403508772
+41.uploadpercentage= 0.0
+42.uploadpercentage= 0.0
+43.uploadpercentage= 0.03298245614035088
+44.uploadpercentage= 0.056842105263157895
+45.uploadpercentage= 0.04070175438596491
+46.uploadpercentage= 0.0
+47.uploadpercentage= 0.0
+48.uploadpercentage= 0.008421052631578947
+49.uploadpercentage= 0.004210526315789474
+50.uploadpercentage= 0.05754385964912281
+51.uploadpercentage= 0.032280701754385965
+52.uploadpercentage= 0.07368421052631578
+53.uploadpercentage= 0.05473684210526316
+54.uploadpercentage= 0.014035087719298246
+55.uploadpercentage= 0.04491228070175438
+56.uploadpercentage= 0.0014035087719298245
+57.uploadpercentage= 0.008421052631578947
+58.uploadpercentage= 0.030877192982456142
+59.uploadpercentage= 0.08912280701754385
+60.uploadpercentage= 0.04982456140350877
+61.uploadpercentage= 0.0
+62.uploadpercentage= 7.017543859649122E-4
+63.uploadpercentage= 0.0
+64.uploadpercentage= 0.0456140350877193
+65.uploadpercentage= 0.0
+66.uploadpercentage= 0.0
+67.uploadpercentage= 0.03368421052631579
+68.uploadpercentage= 0.028070175438596492
+69.uploadpercentage= 0.010526315789473684
+70.uploadpercentage= 0.0
+71.uploadpercentage= 0.005614035087719298
+72.uploadpercentage= 0.023157894736842106
+73.uploadpercentage= 0.0
+74.uploadpercentage= 0.0
+75.uploadpercentage= 0.0
+76.uploadpercentage= 0.0
+77.uploadpercentage= 0.0
+78.uploadpercentage= 0.0
+79.uploadpercentage= 0.0
+80.uploadpercentage= 0.04280701754385965
+81.uploadpercentage= 0.0035087719298245615
+82.uploadpercentage= 0.015438596491228071
+83.uploadpercentage= 0.0
+84.uploadpercentage= 0.0
+85.uploadpercentage= 0.0
+86.uploadpercentage= 0.0
+87.uploadpercentage= 0.0
+88.uploadpercentage= 0.0
+89.uploadpercentage= 0.004210526315789474
+90.uploadpercentage= 0.0
+91.uploadpercentage= 0.0
+92.uploadpercentage= 0.0
+93.uploadpercentage= 0.009824561403508772
+94.uploadpercentage= 0.004912280701754386
+95.uploadpercentage= 0.0
+96.uploadpercentage= 0.0
+97.uploadpercentage= 0.0
+98.uploadpercentage= 0.0
+99.uploadpercentage= 7.017543859649122E-4
+100.uploadpercentage= 0.08070175438596491
+101.uploadpercentage= 0.0
+102.uploadpercentage= 0.02245614035087719
+
+
+>Simulation runtime: 16.048000 secs
+
